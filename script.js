@@ -63,4 +63,15 @@ window.addEventListener("load", () => {
     }, 300);
   }
 
-});
+  const botao = document.querySelector(".btn");
+
+if (botao) {
+  botao.addEventListener("click", (e) => {
+    e.preventDefault();
+
+    window.open(
+      "https://typebot.co/a-d-a-lovelance-matematica-6b748hd",
+      "_blank"
+    );
+  });
+}
