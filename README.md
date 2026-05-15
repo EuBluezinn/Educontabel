@@ -6,6 +6,13 @@ Um projeto educacional desenvolvido como um Pen no CodePen.
 
 Educontabel é uma aplicação web interativa criada para fins educacionais. O projeto demonstra o uso de HTML, CSS e JavaScript para criar uma interface responsiva e dinâmica.
 
+## tecnologias 
+
+-HTML
+-CSS
+-JavaScript
+-TypeBot
+
 ## Características
 
 - Interface intuitiva e amigável
@@ -26,16 +33,14 @@ Este projeto foi originalmente criado no CodePen por **skytzen**.
 git clone https://github.com/EuBluezinn/Educontabel.git
 ```
 
-2. Abra o arquivo `index.html` em seu navegador favorito
+2. Abra o arquivo `index.html` em seu navegador
 
 ## Autor
 
 Este repositório é mantido por [@EuBluezinn](https://github.com/EuBluezinn)
 
-## Licença
 
-Este projeto segue a licença do projeto original no CodePen.
 
----
+
 
 **Última atualização:** 2026-05-15
