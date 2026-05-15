@@ -25,7 +25,15 @@ git clone https://github.com/EuBluezinn/Educontabel.git
 
 2. Abra o arquivo `index.html` em seu navegador
 
-## Autor
+## Funcionalidades
+
+- Interface responsiva e dinâmica
+- Interatividade através de JavaScript
+- Design moderno com CSS
+- Aplicação educacional interativa
+- Componentes reutilizáveis
+
+## Equipe
 
 Este repositório é mantido por [@EuBluezinn](https://github.com/EuBluezinn)
 
