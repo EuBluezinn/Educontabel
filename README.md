@@ -13,7 +13,7 @@ HTML, CSS, JavaScript, TypeBot
 
 **URL:** [https://codepen.io/skytzen/pen/gbLLaPB](https://codepen.io/skytzen/pen/gbLLaPB)
 
-         [https://typebot.co/a-d-a-lovelance-matematica-6b748hd](https://typebot.co/a-d-a-lovelance-matematica-6b748hd)
+[https://typebot.co/a-d-a-lovelance-matematica-6b748hd](https://typebot.co/a-d-a-lovelance-matematica-6b748hd)
          
 ## Como Usar
 
