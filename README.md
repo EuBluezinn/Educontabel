@@ -9,13 +9,11 @@ Educontabel é uma aplicação web interativa criada para fins educacionais. O p
 ## Tecnologias
 
 HTML, CSS, JavaScript, TypeBot
+## links
 
-## Origem
-
-Este projeto foi originalmente criado no CodePen por **skytzen**.
-
-**Original URL:** [https://codepen.io/skytzen/pen/gbLLaPB](https://codepen.io/skytzen/pen/gbLLaPB)
-
+**URL:** [https://codepen.io/skytzen/pen/gbLLaPB](https://codepen.io/skytzen/pen/gbLLaPB)
+         [https://typebot.co/a-d-a-lovelance-matematica-6b748hd](https://typebot.co/a-d-a-lovelance-matematica-6b748hd)
+         
 ## Como Usar
 
 1. Clone o repositório:
